@@ -324,10 +324,6 @@
 9-seed47-epochs3-bert-base-multilingual-cased-2,"0,9339954163483576"
 10-seed47-epochs3-bert-base-multilingual-cased-2,"0,8934132833931814"
 0-seed47-epochs3-bert-base-multilingual-cased-2,"0,9292218813885255"
----
-1-seed62-epochs3-bert-base-multilingual-cased-2,"0,9318355180230137"
-2-seed62-epochs3-bert-base-multilingual-cased-2,"0,9496089584073943"
----
 1-seed62-epochs3-bert-base-multilingual-cased-2,"0,9318355180230137"
 2-seed62-epochs3-bert-base-multilingual-cased-2,"0,9496089584073943"
 3-seed62-epochs3-bert-base-multilingual-cased-2,"0,9446737507684202"
